@@ -13,7 +13,7 @@
 | | タイトル | 話者 |
 | --- | --- | --- 
 | 13:00-13:10 | 運営より諸注意 | （会場担当）|
-| 13:10-14:10 | 「ベストエフォート」な乱数生成と秘密計算 | 縫田 光司（東京大学／産業技術総合研究所）|
+| 13:10-14:10 | 「ベストエフォート」な乱数生成と秘密計算 | 縫田 光司（東京大学／産業技術総合研究所）| 
 
 ※ 随時追記致します
 
@@ -21,7 +21,7 @@
 - 参加費無料
 - スピーカー募集中です（以下の登録時もしくはメールでお問い合わせ下さい）
 - 以下のURLよりご登録下さい
- -- https://docs.google.com/forms/d/e/1FAIpQLSf2ZnZK4090nTuhmPeIBy_fFrlTsERZ3MWnb5Ct4qRmg-pfqQ/viewform
+- https://docs.google.com/forms/d/e/1FAIpQLSf2ZnZK4090nTuhmPeIBy_fFrlTsERZ3MWnb5Ct4qRmg-pfqQ/viewform
 
 ## 懇親会のご案内
 セッション終了後，そのままZoomにて開催致します．
