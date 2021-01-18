@@ -20,13 +20,13 @@
 | 14:40-15:00 | 休憩 | | 
 | 15:00-15:15 |  CFP/CFPaなどアナウンス | |
 | 15:15-16:00<br>(30+15) | Card-based Cryptography Meets Mahjong Tiles | 須賀 祐治（インターネットイニシアティブ） |
-| 16:00-17:00 |  | |
+| 16:00-17:00 | 全体討議 | |
 
 ※ 随時追記致します
 
 ## 参加申込
 - 参加費無料
-- スピーカー募集中です（以下の登録時もしくはメールでお問い合わせ下さい）
+- ~~スピーカー募集中です（以下の登録時もしくはメールでお問い合わせ下さい）~~
 - 以下のURLよりご登録下さい
 - https://docs.google.com/forms/d/e/1FAIpQLSf2ZnZK4090nTuhmPeIBy_fFrlTsERZ3MWnb5Ct4qRmg-pfqQ/viewform
 
